@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Unofficial_JavaScript_logo_2 svg](https://github.com/user-attachments/assets/186e98e2-bf96-4e58-8a97-89f7804fbde5)
+
 # Tashrif Radin Ali
 I am a student at Humber Humber Ploythecnic. I enjoy coding!
 >[!tip]
@@ -7,12 +9,6 @@ I am a student at Humber Humber Ploythecnic. I enjoy coding!
 > Romanian American university (computer science for Economics)  
 > Humber Ploythecnic (Web application development)
 
-
-
-<!--
-**Ramdao/Ramdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
