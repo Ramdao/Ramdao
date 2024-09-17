@@ -13,4 +13,4 @@ I am a student at Humber Humber Ploythecnic. I enjoy coding!
 - 📝 I’m currently learning Animations with CSS and JS
 - ✨ I’m looking for help with Entry level jobs with web app dev
 
-This is the link to my [Linkin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uFsJtU3AiSYk-Di-pOSFO_EiwEvidll3Q&s)
+This is the link to my [Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uFsJtU3AiSYk-Di-pOSFO_EiwEvidll3Q&s)
