@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/user-attachments/assets/186e98e2-bf96-4e58-8a97-89f7804fbde5" width="500">
+<img src="https://github.com/user-attachments/assets/186e98e2-bf96-4e58-8a97-89f7804fbde5" width="100">
 
 
 # Tashrif Radin Ali
