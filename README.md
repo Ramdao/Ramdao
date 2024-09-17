@@ -4,7 +4,7 @@
 # Tashrif Radin Ali
 I am a student at Humber Humber Ploythecnic. I enjoy coding!
 >[!tip]
->Education 
+>Education   
 > Romanian American university (computer science for Economics)  
 > Humber Ploythecnic (Web application development)
 
