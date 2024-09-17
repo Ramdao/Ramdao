@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Tashrif Radin Ali
+I am a student at Humber Humber Ploythecnic. I enjoy coding!
+>[!tip]
+>Education 
+> Romanian American university (computer science for Economics)  
+> Humber Ploythecnic (Web application development)
+
+
+
 <!--
 **Ramdao/Ramdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
