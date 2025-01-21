@@ -9,8 +9,8 @@ I am a student at Humber Humber Ploythecnic. I enjoy coding!
 > Humber Ploythecnic (Web application development)
 
 
-- 🪢 I’m currently working on Animations
-- 📝 I’m currently learning Animations with CSS and JS
-- ✨ I’m looking for help with Entry level jobs with web app dev
+- 🪢 I’m currently working on React and AWS
+- 📝 I’m currently learning machine learning
+- ✨ I’m looking for help with Entry level jobs/Internships with web app dev
 
 This is the link to my [Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uFsJtU3AiSYk-Di-pOSFO_EiwEvidll3Q&s)
