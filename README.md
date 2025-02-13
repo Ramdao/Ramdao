@@ -1,5 +1,10 @@
 ## Coding is a flow ⛲
-<img src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg" width="300"> <img src="https://www.lemosys.com/blog/wp-content/uploads/2022/05/nodejs.jpg" width="224"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uFsJtU3AiSYk-Di-pOSFO_EiwEvidll3Q&s" width="170">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="300"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="224"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="170"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="224"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="224"> 
+
 
 # Tashrif Radin Ali
 I am a student at Humber Humber Ploythecnic. I enjoy coding!
@@ -13,4 +18,5 @@ I am a student at Humber Humber Ploythecnic. I enjoy coding!
 - 📝 I’m currently learning machine learning
 - ✨ I’m looking for help with Entry level jobs/Internships with web app dev
 
-This is the link to my [Linkedin]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uFsJtU3AiSYk-Di-pOSFO_EiwEvidll3Q&s](https://www.linkedin.com/in/tashrif-radin-ali-a54b6b252/))
+This is the link to my [LinkedIn](https://www.linkedin.com/in/tashrif-radin-ali-a54b6b252/)
+
